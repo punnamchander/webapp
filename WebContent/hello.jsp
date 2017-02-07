@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Web Application JSP Page</title>
+    <title>Shop Web Application JSP Page</title>
   </head>
 
   <body bgcolor=white>
@@ -11,13 +11,13 @@
         <img src="images/springsource.png">
       </td>
       <td>
-         <h1>Web Application JSP Page</h1>
+         <h1>ShopWeb Application JSP Page</h1>
       </td>
     </tr>
   </table>
 
   <br />
-  <p>This is the output of a JSP page that is part of the Web Application.</p>
+  <p>This is the output of a JSP page that is part of the Shop Web Application.</p>
 
   <%= new String("Hello!") %>
 
